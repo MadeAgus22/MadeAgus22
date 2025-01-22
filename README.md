@@ -23,7 +23,7 @@ I am as Agricultural Engineering love coding <img src="https://media.giphy.com/m
 
 - :seedling: Exploring new things.
 
-- :zap: In my free time, I always learning new skills.
+- :zap: In my free time, I always learn new skills.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
