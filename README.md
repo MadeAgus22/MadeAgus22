@@ -41,5 +41,10 @@ I am as Agricultural Engineering love coding <img src="https://media.giphy.com/m
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeAgus22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
